@@ -1,0 +1,89 @@
+.proname{
+    position:absolute;
+        top: 40px;
+        right: 50px;
+
+    }
+    .search{
+        position: absolute;
+        left: 200px;
+        top: 40px;
+    }
+    .top-right{
+        position: absolute;
+        right: 0px;
+        top: 85px;
+    }
+    .buttom-right{
+        position: absolute;
+        right: 0px;
+        top: 285px;
+    }
+   .b{
+        font-size: 50px;
+    }
+    .p{
+        color: grey;
+    }
+    .red{
+        color: red;
+    }
+    a{
+        text-decoration: none;
+        color: gray;
+        text-align: center;
+        font-size: 20px;
+    }
+    .roo {
+     
+      float: left;
+    
+
+    }
+    .col1
+    {
+        float: left;
+        padding: 20px;
+    }
+    footer{
+        background-color: rgb(223, 221, 221);
+        position: absolute;
+        top: 1000px;
+    }
+    .split {
+        
+         width: 30%;
+         z-index: 1;
+         top: 750px;
+         position: absolute;
+         overflow-x: hidden;
+         padding-top: 20px;
+       
+       
+    }
+    .left{
+        top: 750px;
+        height: 100%;
+        left: 0;
+        font-size: 20px;
+        color: grey;
+    }
+   
+    .right{
+        top: 700px;
+        right: 0;
+        width: 80%;
+        height: 40%;
+    }
+    .spicy{
+        border-radius: 8px;
+        display: inline;
+        background-color: rgb(251, 53, 53);
+       
+    }
+    .chef{
+        border-radius: 8px;
+        display: inline;
+        background-color: rgb(236, 236, 96);
+    }
+   
